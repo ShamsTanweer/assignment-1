@@ -1,0 +1,45 @@
+table,th,td {
+  text-align: center;
+  border: 1px solid black;
+}
+div {
+  position:absolute;
+    top: 40%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -10em; 
+    margin-left: -15em; 
+    
+    
+}
+input {
+  border: 1px solid rgba(black);
+  background-color: rgba(252, 252, 252, 0.2);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  font-weight: 300;
+}
+
+button {
+  border: 1px solid rgba(black);
+  border: 1px solid rgba(252, 252, 252, 0.4);
+  background-color: rgb(201, 190, 190);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: black;          
+  font-weight: 300;
+}
